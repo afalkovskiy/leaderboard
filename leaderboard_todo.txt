@@ -1,0 +1,9 @@
+Assignment
+
+Functions to write:
+
+Function names:
+    add_player(leaderboard)
+    display_leaderboard(leaderboard)
+    highest_score(leaderboard)       
+    save_leaderboard_to_file(leaderboard, filename)
